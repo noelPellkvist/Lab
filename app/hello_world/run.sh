@@ -11,8 +11,8 @@
 # happening during the compilation process.
 
 # Paths for DE2-115 sources
-# CORE_FILE=../../hardware/DE2-115-pre-built/DE2_115_Nios2System.sopcinfo
-# SOF_FILE=../../hardware/DE2-115-pre-built/IL2206_DE2_115_Nios2.sof
+ #CORE_FILE=../../hardware/DE2-115-pre-built/DE2_115_Nios2System.sopcinfo
+ #SOF_FILE=../../hardware/DE2-115-pre-built/IL2206_DE2_115_Nios2.sof
 # JDI_FILE=../../hardware/DE2-115-pre-built/IL2206_DE2_115_Nios2.jdi
 
 # Paths for DE2-35 sources
